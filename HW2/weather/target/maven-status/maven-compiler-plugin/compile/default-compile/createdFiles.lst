@@ -1,0 +1,14 @@
+org\example\model\Main.class
+org\example\model\Weather$WeatherBuilder.class
+org\example\model\Wind.class
+org\example\model\Clouds$CloudsBuilder.class
+org\example\model\Root$RootBuilder.class
+org\example\model\WeatherData$WeatherDataBuilder.class
+org\example\model\WeatherData.class
+org\example\servlet\MainServlet.class
+org\example\model\Main$MainBuilder.class
+org\example\model\Root.class
+org\example\model\Weather.class
+org\example\model\Wind$WindBuilder.class
+org\example\servlet\WeatherServlet.class
+org\example\model\Clouds.class
